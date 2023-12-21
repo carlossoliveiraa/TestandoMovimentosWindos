@@ -1,0 +1,14 @@
+C:\Git\ScannerWindows\ScannerWindows\bin\Debug\net7.0\ScannerWindows.exe
+C:\Git\ScannerWindows\ScannerWindows\bin\Debug\net7.0\ScannerWindows.deps.json
+C:\Git\ScannerWindows\ScannerWindows\bin\Debug\net7.0\ScannerWindows.runtimeconfig.json
+C:\Git\ScannerWindows\ScannerWindows\bin\Debug\net7.0\ScannerWindows.dll
+C:\Git\ScannerWindows\ScannerWindows\bin\Debug\net7.0\ScannerWindows.pdb
+C:\Git\ScannerWindows\ScannerWindows\obj\Debug\net7.0\ScannerWindows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\ScannerWindows\ScannerWindows\obj\Debug\net7.0\ScannerWindows.AssemblyInfoInputs.cache
+C:\Git\ScannerWindows\ScannerWindows\obj\Debug\net7.0\ScannerWindows.AssemblyInfo.cs
+C:\Git\ScannerWindows\ScannerWindows\obj\Debug\net7.0\ScannerWindows.csproj.CoreCompileInputs.cache
+C:\Git\ScannerWindows\ScannerWindows\obj\Debug\net7.0\ScannerWindows.dll
+C:\Git\ScannerWindows\ScannerWindows\obj\Debug\net7.0\refint\ScannerWindows.dll
+C:\Git\ScannerWindows\ScannerWindows\obj\Debug\net7.0\ScannerWindows.pdb
+C:\Git\ScannerWindows\ScannerWindows\obj\Debug\net7.0\ScannerWindows.genruntimeconfig.cache
+C:\Git\ScannerWindows\ScannerWindows\obj\Debug\net7.0\ref\ScannerWindows.dll
